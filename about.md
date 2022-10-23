@@ -21,10 +21,11 @@ redirect_from:
 Ejemplo de nota.
 {:.note}
 
-## Hydejack
 
 A boutique Jekyll theme for hackers, nerds, and academics.  
 {:.uoc}
+
+## Hydejack
 
 1. this list will be replaced by the toc
 {:toc .large-only}
