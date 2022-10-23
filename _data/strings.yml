@@ -33,7 +33,7 @@ templates:             Templates (for web app)
 present:               present
 toc:                   Table of Contents
 note:                  Note
-description:           Descripción
+description:           Descripcion
 search:                Search
 search_placeholder:    Type something…
 
@@ -41,8 +41,8 @@ loading:               Loading…
 redirecting:           Redirecting…
 
 continue_reading:      >
-#  Continue reading <!--post_title-->
-  Continua leyendo <!--post_title-->
+   Continue reading <!--post_title-->
+#  Continua leyendo <!--post_title-->
 
 cookies_banner:
   text:                >
