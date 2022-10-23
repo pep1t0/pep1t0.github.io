@@ -65,6 +65,7 @@ ___
 ___
 **Español**
 Competencia bilingüe
+
 **Inglés**
 Competencia básica profesional
 
