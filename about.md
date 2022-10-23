@@ -48,6 +48,8 @@ Feb. 1997 - Sept 1999
 {:.note title="Acció Global LTD"}
 
 
+`<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="3e4e63a4-8a68-4278-a142-407f58775bcc" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>`
+
 
 ## Hydejack
 
