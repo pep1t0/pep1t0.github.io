@@ -47,6 +47,7 @@ author:
   # # Used by `jekyll-seo-tag`:
       github: pep1t0
 
+# Add links to the sidebar.
 menu:
   - title:             Blog
     url:               /blog/
@@ -73,7 +74,7 @@ permalink:             /:categories/:year-:month-:day-:title/
 
 # Pagination configuration (used by the `blog` layout)
 paginate:              10
-paginate_path:         /:num/
+paginate_path:         /blog/:num/
 
 
 # Theme
@@ -87,8 +88,8 @@ remote_theme: hydecorp/hydejack@v9
 # ----------------------------------------------------------------------------------------
  
 # Sidebar image and theme color of the site.
-# accent_image:          /assets/img/sidebar-bg.png
-accent_image:          /assets/img/sidebar-bg-chip.jpg
+accent_image:          /assets/img/sidebar-bg.png
+# accent_image:          /assets/img/sidebar-bg-chip.jpg
 accent_color:          rgb(79,177,186)
 
 # This is used for the `theme-color` meta tag,
