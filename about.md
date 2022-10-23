@@ -25,6 +25,12 @@ Ejemplo de nota.
 A boutique Jekyll theme for hackers, nerds, and academics.  
 {:.uoc}
 
+Otro ejemplo
+{:Cosita}
+
+Uno mas
+{:Cosita uno dos}
+
 ## Hydejack
 
 1. this list will be replaced by the toc
