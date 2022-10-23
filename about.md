@@ -16,8 +16,8 @@ redirect_from:
 
 ## Formación Académica ##
 
-**Universitat Oberta de Catalunya** 
-> **Master en Ciberseguridad y Privacidad** Feb. 2022 - actualmente.
+**Master en Ciberseguridad y Privacidad** Feb. 2022 - actualmente
+{:.note title="Universitat Oberta de Catalunya"}
 
 
 ## Hydejack
