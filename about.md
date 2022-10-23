@@ -17,8 +17,9 @@ redirect_from:
 ## Formación Académica ##
 
 **Master en Ciberseguridad y Privacidad** Feb. 2022 - actualmente.
+
 Ejemplo de nota.
-{:.uoc}
+{:.note}
 
 ## Hydejack
 
