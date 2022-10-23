@@ -33,7 +33,7 @@ templates:             Templates (for web app)
 present:               present
 toc:                   Table of Contents
 note:                  Note
-description:           Descripcion
+description:           Descripción
 search:                Search
 search_placeholder:    Type something…
 
