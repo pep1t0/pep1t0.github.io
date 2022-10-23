@@ -28,7 +28,7 @@ description:           >
   Blog personal sobre artículos de Ciberseguridad
 
 # A shorter description for the sidebar.
-tagline:               Change `tagline` in `_config.yml`
+tagline:               Artículos sobre Ciberseguridad y otras curiosidades.
 
 # A list of keywords for your blog
 keywords:              [Ciberseguridad, Cibersecurity]
@@ -50,9 +50,9 @@ author:
 menu:
   - title:             Blog
     url:               /blog/
-  - title:             Documentation
+  - title:             Documentacion
     url:               /docs/
-  - title:             About
+  - title:             Acerca de...
     url:               /about/
 
 # Add links to the footer.
