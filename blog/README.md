@@ -1,4 +1,4 @@
 ---
-layout: grid
-title: Posts
+layout: blog
+title: Blog
 ---
