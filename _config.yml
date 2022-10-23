@@ -70,11 +70,11 @@ menu:
 copyright:             © 2022. All rights reserved.
 
 # Format of the permalinks
-permalink:             /blog/:categories/:year-:month-:day-:title/
+permalink:             /blog:year-:month-:day-:title/
 
 # Pagination configuration (used by the `blog` layout)
 paginate:              10
-paginate_path:         /blog/:num/ #!!
+paginate_path:         :num/ #!!
 
 
 # Theme
