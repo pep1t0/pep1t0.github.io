@@ -15,7 +15,7 @@ redirect_from:
 
 
 ## Formación Académica ##
-
+___
 1. this list will be replaced by the toc
 {:toc .large-only}
 
@@ -26,10 +26,10 @@ redirect_from:
 **Ingeniería en Informática** Sept. 1992 - Jun 1997
 {:.note title="Universitat Autònoma de Barcelona"}
 
-___
+
 
 ## Experiencia Profesional
-
+___
 **Funcionario del Estado** 
 2005 - actualidad
 {:.note title="Generalitat de Catalunya"}
@@ -49,8 +49,19 @@ Dic. 1999 - Mayo 2000
 Feb. 1997 - Sept 1999
 {:.note title="Acció Global LTD"}
 
+## Licencias y certificaciones
+___
 
+<div class="pull-left">
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="3e4e63a4-8a68-4278-a142-407f58775bcc" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div class="pull-right">
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6acbaa61-2d8a-4f47-9d74-b30550a01114" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="010409fb-af6e-4b4e-8eda-cc5a3803293e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="0297d085-7f24-41c0-bafe-0b84b5af7b51" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b6acb53d-3c1e-44ad-8968-3c44c0bfad37" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7b8b2339-3271-4c98-9ff9-7746443d8e02" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+
 
 
 
