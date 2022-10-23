@@ -27,22 +27,22 @@ redirect_from:
 
 **Funcionario del Estado** 
 2005 - actualidad
-{.note="Generalitat de Catalunya"}
+{:.note="Generalitat de Catalunya"}
 **Director de proyectos** 
 Oct 2001 - Sept. 2005
-{.note="Transports Metropolitans de Barcelona"}
+{:.note="Transports Metropolitans de Barcelona"}
 **Consultor Senior Networking**
 Abril. 2001 - Oct. 2001
-{.note="Cap Gemini Telecom Media"}
+{:.note="Cap Gemini Telecom Media"}
 **Network Engineer** 
 Mayo 2000 - Marzo 2001
-{.note="Loop TELECOM"}
+{:.note="Loop TELECOM"}
 **Ingeniero de Software (C, C++))**
 Dic. 1999 - Mayo 2000
-{.note="Gepin Soft SA"}
+{:.note="Gepin Soft SA"}
 **Ingeniero de Software (MAINFRAME COBOL)**
 Feb. 1997 - Sept 1999
-{.note="Acció Global LTD"}
+{:.note="Acció Global LTD"}
 
 
 
