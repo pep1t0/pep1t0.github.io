@@ -13,6 +13,12 @@ redirect_from:
 
 <!--author-->
 
+
+## Formación Académica ##
+
+Master en Ciberseguridad y Privacidad. Feb. 2022 - actualmente
+{:.Universitat Oberta de Catalunya}
+
 ## Hydejack
 
 A boutique Jekyll theme for hackers, nerds, and academics.  
