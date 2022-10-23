@@ -23,6 +23,27 @@ redirect_from:
 **Ingeniería en Informática** Sept. 1992 - Jun 1997
 {:.note title="Universitat Autònoma de Barcelona"}
 
+## Experiencia Profesional
+
+**Funcionario del Estado. 
+2005 - actualidad
+{.note="Generalitat de Catalunya"}
+**Director de proyectos. 
+Oct 2001 - Sept. 2005
+{.note="Transports Metropolitans de Barcelona"}
+**Consultor Senior Networking. 
+Abril. 2001 - Oct. 2001
+{.note="Cap Gemini Telecom Media"}
+**Network Engineer. 
+Mayo 2000 - Marzo 2001
+{.note="Loop TELECOM"}
+**Ingeniero de Software (C, C++)). 
+Dic. 1999 - Mayo 2000
+{.note="Gepin Soft SA"}
+**Ingeniero de Software (MAINFRAME COBOL)
+Feb. 1997 - Sept 1999
+{.note="Acció Global LTD"}
+
 
 
 ## Hydejack
