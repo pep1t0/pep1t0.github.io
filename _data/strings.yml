@@ -32,7 +32,7 @@ permalink_icon:        'content-hash'
 templates:             Templates (for web app)
 present:               present
 toc:                   Table of Contents
-note:                  Note
+note:                  Nota
 description:           Descripción
 search:                Search
 search_placeholder:    Type something…
