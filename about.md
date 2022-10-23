@@ -16,20 +16,9 @@ redirect_from:
 
 ## Formación Académica ##
 
-**Master en Ciberseguridad y Privacidad** Feb. 2022 - actualmente.
+**Universitat Oberta de Catalunya** 
+> **Master en Ciberseguridad y Privacidad** Feb. 2022 - actualmente.
 
-Ejemplo de nota.
-{:.note}
-
-
-A boutique Jekyll theme for hackers, nerds, and academics.  
-{:.uoc}
-
-Otro ejemplo
-{:Cosita}
-
-Uno mas
-{:Cosita uno dos}
 
 ## Hydejack
 
