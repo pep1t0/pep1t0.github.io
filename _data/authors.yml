@@ -8,11 +8,12 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    
-    Open `_data/authors.yml` to edit this text.
+    Funcionario del Estado de profesión, Ingeniero Informático de vocación. 
+
+    Soy un apasionado de ciberseguridad y del hacking ético. He cursado un Máster en Redes en la Fundación Politécnica de Catalunya.
+    Es estos momentos estoy terminando otro Máster en Ciberseguridad y Privacidad en la Universitat Oberta de Catalunya.
+
+    Me chifla resolver CTF. ¿a alguien más? ;)
 
   # This photo will be used in the about section
   picture:
