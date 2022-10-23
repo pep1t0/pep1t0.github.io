@@ -24,7 +24,7 @@ Ejemplo de nota.
 ## Hydejack
 
 A boutique Jekyll theme for hackers, nerds, and academics.  
-{:.lead}
+{:.uoc}
 
 1. this list will be replaced by the toc
 {:toc .large-only}
