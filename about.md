@@ -16,6 +16,9 @@ redirect_from:
 
 ## Formación Académica ##
 
+1. this list will be replaced by the toc
+{:toc .large-only}
+
 **Master en Ciberseguridad y Privacidad** Feb. 2022 - actualmente
 {:.note title="Universitat Oberta de Catalunya"}
 **Master en Sistemas, redes y comunicaciones** Sept. 2003 - Jun. 2004
@@ -27,29 +30,27 @@ redirect_from:
 
 **Funcionario del Estado** 
 2005 - actualidad
-{:.note="Generalitat de Catalunya"}
+{:.note title="Generalitat de Catalunya"}
 **Director de proyectos** 
 Oct 2001 - Sept. 2005
-{:.note="Transports Metropolitans de Barcelona"}
+{:.note title="Transports Metropolitans de Barcelona"}
 **Consultor Senior Networking**
 Abril. 2001 - Oct. 2001
-{:.note="Cap Gemini Telecom Media"}
+{:.note title="Cap Gemini Telecom Media"}
 **Network Engineer** 
 Mayo 2000 - Marzo 2001
-{:.note="Loop TELECOM"}
+{:.note title="Loop TELECOM"}
 **Ingeniero de Software (C, C++))**
 Dic. 1999 - Mayo 2000
-{:.note="Gepin Soft SA"}
+{:.note title="Gepin Soft SA"}
 **Ingeniero de Software (MAINFRAME COBOL)**
 Feb. 1997 - Sept 1999
-{:.note="Acció Global LTD"}
+{:.note title="Acció Global LTD"}
 
 
 
 ## Hydejack
 
-1. this list will be replaced by the toc
-{:toc .large-only}
 
 ![Screenshot](assets/img/blog/hydejack-9.jpg){:.lead width="1920" height="1080" loading="lazy"}
 
