@@ -63,8 +63,8 @@ ___
 
 ## Idiomas
 ___
-**Español
+**Español**
 Competencia bilingüe
-**Inglés
+**Inglés**
 Competencia básica profesional
 
