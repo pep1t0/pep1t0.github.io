@@ -73,7 +73,7 @@ copyright:             © 2022. Todos los derechos reservados.
 permalink:             /:categories/:day-:month-:year-:title/
 
 # Pagination configuration (used by the `blog` layout)
-paginate:              5
+paginate:              3
 paginate_path:         /:num/ #!!
 
 
