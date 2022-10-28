@@ -4,6 +4,12 @@
 {% assign hide_image       = include.hide_image       %}
 {% assign hide_description = include.hide_description %}
 
+<li class="h4">
+  <a href="{{ post.url | relative_url }}" class="flip-title"><span>{{ post.title }}</span></a>
+  {% unless site.hydejack.hide_dates %}<time class="faded fine" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date:format }}</time>{% endunless %}
+  {% if post.applause_button %}<span class="clap-count" data-url="{{ post.url | absolute_url }}"></span>{% endif %}
+</li>
+
 <article id="post{{ post.id | replace:'/','-' }}" class="page post mb6" role="article">
   <header>
     <h1 class="post-title flip-project-title">
@@ -28,10 +34,7 @@
         {%- assign tag_start          = site.data.strings.tag_start          | default:"on " -%}
         {%- assign tag_separator      = site.data.strings.tag_separator      | default:", "  -%}
         {%- include components/tag-list.html tags=post.tags meta=site.featured_tags start_with=tag_start separator=tag_separator -%}
-        {% if post.applause_button %}
-          {{ ' ' }}
-          <span class="clap-count" data-url="{{ post.url | absolute_url }}"></span>
-        {% endif %}
+        {% if post.applause_button %} <span class="clap-count" data-url="{{ post.url | absolute_url }}"></span> {% endif %}
       {% endcapture %}
       <span class="ellipsis mr1">
         {{ foobar }}
