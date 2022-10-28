@@ -9,8 +9,8 @@ title: Blog
 slug: blog
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
-description: >
-  Diferentes posts relativos a ciberseguridad, tecnología. Los comentarios serán bienvenidos ;)
+# description: >
+#  Diferentes posts relativos a ciberseguridad, tecnología. Los comentarios serán bienvenidos ;)
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true
