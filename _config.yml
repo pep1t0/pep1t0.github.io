@@ -49,10 +49,10 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Blog
+  - title:             Archivo
     url:               /blog/
-  - title:             Documentación
-    url:               /docs/
+#  - title:             Documentación
+#    url:               /docs/
   - title:             Acerca de...
     url:               /about/
 
