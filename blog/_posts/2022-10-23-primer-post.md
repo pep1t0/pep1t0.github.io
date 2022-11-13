@@ -14,8 +14,6 @@ La intención será ir subiendo posts sobre:
 - Comentar CTF's que hago de Tryhackme y los laboratorios de HackTheBox.
 - Y cualquier noticia tecnológica que parezca relevante
 
-En la sección de documentos dejaré colgados los `papers`que escribo.
-
 Y por supuesto para cualquier sugerencia, comentario... teneis mi dirección de email
 
 Un abrazo!!
