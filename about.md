@@ -19,7 +19,7 @@ ___
 1. this list will be replaced by the toc
 {:toc .large-only}
 
-**Master en Ciberseguridad y Privacidad** Feb. 2022 - actualmente
+**Master en Ciberseguridad y Privacidad** Feb. 2022 - jun. 2023
 {:.note title="Universitat Oberta de Catalunya"}
 **Master en Sistemas, redes y comunicaciones** Sept. 2003 - Jun. 2004
 {:.note title="Universitat Politècnica de Catalunya"}
