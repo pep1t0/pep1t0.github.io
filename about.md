@@ -59,6 +59,7 @@ ___
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="0297d085-7f24-41c0-bafe-0b84b5af7b51" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b6acb53d-3c1e-44ad-8968-3c44c0bfad37" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7b8b2339-3271-4c98-9ff9-7746443d8e02" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="802ab08c-66d9-49cd-89fc-a209f2942026" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 </div>
 
 ## Idiomas
